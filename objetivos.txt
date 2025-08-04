@@ -1,0 +1,3 @@
+Durante os próximos dias pretendo aprender sobre a questão de versionamento de sistemas, além de me aprimiorar na questão da programcao em java.
+
+- Hoje eu aprendi a sincronizar o arquivo local com o github
